@@ -25,7 +25,7 @@ Utilisation
 -----------
 
 Depuis un terminal pour envoyer le contenu d’un fichier _toto_, par exemple les param&egrave;tres de sortie d’un code faites 
-    sh send_sms.sh -f foo
+    sh send_sms.sh -f toto
 
 Pour indiquer le message directement dans la ligne de commande 
     sh send_sms.sh message_sans_espace
